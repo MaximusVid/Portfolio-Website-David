@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website-David/static/css/main.69784b82.css",
+    "main.js": "/Portfolio-Website-David/static/js/main.130967a0.js",
+    "static/media/about04.png": "/Portfolio-Website-David/static/media/about04.fa7b3a72ed32b0e25bfb.png",
+    "static/media/about02.png": "/Portfolio-Website-David/static/media/about02.7a3df03410ee756268ec.png",
+    "static/media/profile.png": "/Portfolio-Website-David/static/media/profile.80fa0c8b7136965fbcd3.png",
+    "static/media/about01.png": "/Portfolio-Website-David/static/media/about01.080509de05322b7aafda.png",
+    "static/media/bgIMG.png": "/Portfolio-Website-David/static/media/bgIMG.c39101e520e2997fc6d4.png",
+    "static/media/bgWhite.png": "/Portfolio-Website-David/static/media/bgWhite.79658cadae50b3b16ee5.png",
+    "static/media/about03.png": "/Portfolio-Website-David/static/media/about03.c26c2547bb1a423cf283.png",
+    "static/media/redux.png": "/Portfolio-Website-David/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/sass.png": "/Portfolio-Website-David/static/media/sass.36e863bfbcb25c109d00.png",
+    "static/media/node.png": "/Portfolio-Website-David/static/media/node.8683d89cf78ffae3d1f7.png",
+    "static/media/cpp.png": "/Portfolio-Website-David/static/media/cpp.9002a804bbfa0354d0b8.png",
+    "static/media/graphql.png": "/Portfolio-Website-David/static/media/graphql.0372057049181c5de51a.png",
+    "static/media/mobile.png": "/Portfolio-Website-David/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/email.png": "/Portfolio-Website-David/static/media/email.37b9e890eea501421fbf.png",
+    "static/media/figma.png": "/Portfolio-Website-David/static/media/figma.152e55329b6f1915967e.png",
+    "static/media/css.png": "/Portfolio-Website-David/static/media/css.5721a3928fe43de6baf8.png",
+    "static/media/git.png": "/Portfolio-Website-David/static/media/git.a54d3fa44e02f2f61e69.png",
+    "index.html": "/Portfolio-Website-David/index.html",
+    "static/media/circle.svg": "/Portfolio-Website-David/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
+    "main.69784b82.css.map": "/Portfolio-Website-David/static/css/main.69784b82.css.map",
+    "main.130967a0.js.map": "/Portfolio-Website-David/static/js/main.130967a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69784b82.css",
+    "static/js/main.130967a0.js"
+  ]
+}
