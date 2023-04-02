@@ -20,12 +20,10 @@ const Description = () => {
     const brandsQuery = '*[_type == "brands"]';
 
     client.fetch(query).then((data) => {
-      console.log(data);
       setDescriptions(data);
     });
 
     client.fetch(brandsQuery).then((data) => {
-      console.log(data);
       setBrands(data);
     });
   }, []);
